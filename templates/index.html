@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Flask With Docker</title> 
+    </head>
+    <body>
+        <h2>  System statistics </h2>
+        <div>
+            <ul>
+            <li><a href=" {{ url_for('get_current_cpu') }} "> CPU usage for the current time</a></li>
+            <li><a href=" {{ url_for('get_cpu_stats') }} "> CPU usage for the last 24 hours </a></li> <br>
+            <li><a href=" {{ url_for('get_current_memory') }} "> Memory usage for the current time</a></li>
+            <li><a href=" {{ url_for('get_memory_stats') }} "> Memory usage for the last 24 hours </a></li> <br>
+            <li><a href=" {{ url_for('get_current_disk') }} ">Disk usage for the current time </a></li>
+            <li><a href=" {{ url_for('get_disk_stats') }} "> Disk usage for the last 24 hours </a></li>
+        </ul>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,754 @@
+2021-03-28 13:41:11,403 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 13:41:11,404 INFO werkzeug MainThread :  * Debugger PIN: 389-206-955 <br>
+2021-03-28 13:41:12,413 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 13:41:12,842 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 13:41:12,843 INFO werkzeug MainThread :  * Debugger PIN: 389-206-955 <br>
+2021-03-28 13:41:36,550 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 13:41:36] "[37mGET /status HTTP/1.1[0m" 200 - <br>
+2021-03-28 13:41:57,857 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 13:41:57] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 13:42:00,453 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 13:42:00] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 13:42:01,771 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 13:42:01] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 13:42:03,134 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 13:42:03] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 13:42:06,772 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 13:42:06] "[37mGET /status HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:19:22,637 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 17:19:22,638 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:19:23,237 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:19:23,238 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:20:06,034 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:20:06,334 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:20:06,735 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:20:06,736 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:20:21,036 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:20:21,298 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:20:21,693 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:20:21,694 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:20:28,768 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:20:29,266 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:20:29,719 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:20:29,719 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:20:35,782 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:20:36,278 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:20:36,715 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:20:36,716 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:20:54,040 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:20:54,277 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:20:54,700 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:20:54,701 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:00,791 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:00,848 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:01,274 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:01,275 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:03,295 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:03,334 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:03,687 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:03,688 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:13,883 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:13,920 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:14,297 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:14,298 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:22,434 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:22,474 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:22,867 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:22,868 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:26,914 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:26,955 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:27,384 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:27,384 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:32,431 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:32,471 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:32,827 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:32,828 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:45,044 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:45,094 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:45,504 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:45,505 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:21:50,561 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:21:50,602 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:21:50,950 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:21:50,951 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:22:10,304 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:22:10,343 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:22:10,709 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:22:10,710 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:22:14,748 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:22:14,794 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:22:15,171 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:22:15,172 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:22:28,213 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:22:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - <br>
+2021-03-28 17:22:29,846 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:22:29] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:22:32,255 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 17:22:32] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:22:33,513 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 17:22:33] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:22:38,030 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 17:22:38] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:13,380 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 17:23:13] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:16,098 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 17:23:16] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:29,604 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:23:29,654 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:23:30,221 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:23:30,222 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:23:37,250 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:23:37] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:38,708 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:23:38] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:39,569 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 17:23:39] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:40,448 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 17:23:40] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:23:43,452 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:23:43,493 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:23:43,901 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:23:43,902 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:25:05,692 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:25:05,741 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:25:06,117 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:25:06,118 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:25:48,039 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:25:48,085 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:25:48,491 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:25:48,492 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:25:50,514 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:25:50,552 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:25:50,923 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:25:50,924 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:26:31,807 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:26:31,852 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:26:32,248 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:26:32,249 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:26:35,274 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:26:35,312 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:26:35,680 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:26:35,681 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:27:44,023 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:27:44,063 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:27:44,435 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:27:44,435 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:27:49,504 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:27:49,554 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:27:50,100 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:27:50,101 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:27:51,116 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:27:51,154 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:27:51,517 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:27:51,518 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:28:22,109 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:28:22,152 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:28:22,527 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:28:22,528 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:28:50,109 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:28:50,165 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:28:50,658 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:28:50,659 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:28:52,680 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:28:52,768 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:28:53,288 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:28:53,289 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:28:57,949 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:28:57] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:28:59,647 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:28:59] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:02,178 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 17:29:02] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:04,054 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 17:29:04] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:04,993 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 17:29:04] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:05,825 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 17:29:05] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:07,523 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:29:07,572 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:29:07,930 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:29:07,931 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:29:34,518 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:29:34,574 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:29:34,943 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:29:34,944 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:29:38,243 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:29:38] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:39,172 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:29:39] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:29:54,276 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:29:54,316 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:29:54,716 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:29:54,716 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:29:57,743 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:29:57,797 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:29:58,197 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:29:58,198 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:30:05,304 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:30:05,345 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:30:05,719 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:30:05,720 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:30:27,087 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:30:27,133 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:30:27,523 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:30:27,524 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:30:39,734 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:30:39,779 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:30:40,136 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:30:40,137 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:30:45,197 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:30:45,253 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:30:45,633 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:30:45,634 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:30:51,711 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:30:51,788 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:30:52,162 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:30:52,163 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:30:57,222 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:30:57,264 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:30:57,647 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:30:57,647 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:31:02,907 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:31:02] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:31:03,804 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:31:03] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:31:04,919 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 17:31:04] "[37mGET /current_memory HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:31:05,813 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 17:31:05] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:31:06,721 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 17:31:06] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:31:07,488 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 17:31:07] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:31:11,914 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:31:11,980 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:31:12,432 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:31:12,433 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:31:14,454 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:31:14,500 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:31:14,919 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:31:14,920 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:31:16,941 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:31:16,981 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:31:17,317 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:31:17,318 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:31:18,328 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:31:18,391 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:31:18,825 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:31:18,826 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:31:59,713 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:31:59,757 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:32:00,116 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:32:00,117 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:32:12,330 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:32:12,382 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:32:12,840 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:32:12,841 INFO werkzeug MainThread :  * Debugger PIN: 306-249-711 <br>
+2021-03-28 17:33:57,390 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 17:33:57,392 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:33:57,748 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:33:57,749 INFO werkzeug MainThread :  * Debugger PIN: 755-993-701 <br>
+2021-03-28 17:34:02,764 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:34:02] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:34:04,387 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:34:04] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:34:07,958 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:34:08,011 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:34:08,428 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:34:08,429 INFO werkzeug MainThread :  * Debugger PIN: 755-993-701 <br>
+2021-03-28 17:34:23,737 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:34:23,786 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:34:24,162 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:34:24,162 INFO werkzeug MainThread :  * Debugger PIN: 755-993-701 <br>
+2021-03-28 17:34:47,554 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:34:47,602 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:34:48,005 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:34:48,006 INFO werkzeug MainThread :  * Debugger PIN: 755-993-701 <br>
+2021-03-28 17:35:56,413 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:35:56,482 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:37:50,835 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 17:37:50,836 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:37:51,259 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:37:51,260 INFO werkzeug MainThread :  * Debugger PIN: 332-193-089 <br>
+2021-03-28 17:38:22,498 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:38:22] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:38:24,180 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:38:24] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:38:25,476 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 17:38:25] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:38:28,690 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 17:38:28] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:38:30,173 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 17:38:30] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:38:31,190 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 17:38:31] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:38:35,121 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:38:35,179 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:38:35,689 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:38:35,690 INFO werkzeug MainThread :  * Debugger PIN: 332-193-089 <br>
+2021-03-28 17:42:00,853 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:42:00,922 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:42:01,486 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:42:01,488 INFO werkzeug MainThread :  * Debugger PIN: 332-193-089 <br>
+2021-03-28 17:42:06,331 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:42:06] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:42:13,677 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 17:42:13,728 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:42:14,096 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:42:14,097 INFO werkzeug MainThread :  * Debugger PIN: 332-193-089 <br>
+2021-03-28 17:42:34,339 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:42:34] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:29,320 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 17:56:29,321 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 17:56:29,708 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 17:56:29,709 INFO werkzeug MainThread :  * Debugger PIN: 322-056-624 <br>
+2021-03-28 17:56:40,109 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 17:56:40] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:41,218 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 17:56:41] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:41,876 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 17:56:41] "[35m[1mGET /cpu_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 17:56:41,899 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 17:56:41] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:41,900 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 17:56:41] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:41,902 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 17:56:41] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:42,165 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 17:56:42] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:42,175 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 17:56:42] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 17:56:42,197 INFO werkzeug Thread-10 : 172.17.0.1 - - [28/Mar/2021 17:56:42] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:22,949 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 18:04:22,951 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:04:23,294 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:04:23,295 INFO werkzeug MainThread :  * Debugger PIN: 698-872-038 <br>
+2021-03-28 18:04:38,298 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:04:38] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:41,165 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:04:41] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:42,425 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:04:42] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:43,699 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:04:43] "[35m[1mGET /cpu_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:04:43,732 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:04:43] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:43,735 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:04:43] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:43,736 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:04:43] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:44,016 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 18:04:44] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:44,032 INFO werkzeug Thread-10 : 172.17.0.1 - - [28/Mar/2021 18:04:44] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:04:44,067 INFO werkzeug Thread-11 : 172.17.0.1 - - [28/Mar/2021 18:04:44] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:12,098 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 18:07:12,099 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:07:12,478 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:07:12,479 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:07:29,835 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:07:29] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:31,518 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:07:31] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:33,347 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[35m[1mGET /cpu_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:07:33,375 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:33,378 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:33,379 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:33,513 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:33,532 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:07:33,568 INFO werkzeug Thread-10 : 172.17.0.1 - - [28/Mar/2021 18:07:33] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:10:18,990 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:10:19,552 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:10:20,056 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:10:20,058 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:14:30,574 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:14:30,614 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:14:31,086 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:14:31,087 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:14:34,119 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:14:34,166 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:14:34,577 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:14:34,578 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:14:37,611 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:14:37,667 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:14:38,031 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:14:38,032 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:15:53,392 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:15:53,458 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:15:53,843 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:15:53,843 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:16:27,416 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:16:27,471 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:16:27,857 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:16:27,857 INFO werkzeug MainThread :  * Debugger PIN: 141-543-301 <br>
+2021-03-28 18:20:05,223 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 18:20:05,224 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:20:05,582 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:20:05,583 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:20:14,928 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:20:14] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:15,775 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:20:15] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:16,579 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[35m[1mGET /cpu_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:20:16,608 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:16,609 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:16,609 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:16,680 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:16,688 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:16,713 INFO werkzeug Thread-10 : 172.17.0.1 - - [28/Mar/2021 18:20:16] "[37mGET /cpu_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:20:52,534 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:20:52,589 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:20:53,063 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:20:53,064 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:20:57,109 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:20:57,163 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:20:57,564 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:20:57,565 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:21:01,295 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:21:01] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:21:08,132 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:21:08] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:21:12,898 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:21:12] "[37mGET /current_memory HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:21:14,247 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:21:14] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:21:33,242 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:21:33,292 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:21:33,669 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:21:33,670 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:22:12,427 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:22:12] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:28:22,908 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:28:22,964 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:28:23,333 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:28:23,334 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:28:31,935 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:28:31] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:28:34,033 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:28:34] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:28:39,627 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:28:39,685 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:28:40,097 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:28:40,098 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:28:47,214 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:28:47,272 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:28:47,742 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:28:47,743 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:29:14,224 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:29:14,263 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:29:14,610 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:29:14,611 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:29:19,880 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:29:19] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:21,727 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[35m[1mGET /memory_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:29:21,768 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:21,771 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:21,772 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:21,845 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:21,853 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:21,869 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 18:29:21] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:29:32,949 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:29:33,283 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:29:33,843 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:29:33,845 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:29:39,343 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:29:39] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:01,342 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:30:01,404 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:30:01,778 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:30:01,779 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:30:07,512 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[35m[1mGET /memory_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:30:07,540 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:07,540 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:07,542 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:07,622 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:07,629 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:07,653 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:30:07] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:30:24,192 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:30:24,557 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:30:24,934 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:30:24,934 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:30:26,955 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:30:26,997 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:30:27,344 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:30:27,345 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:30:32,050 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:30:32] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:32:53,275 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:32:53,329 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:32:53,707 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:32:53,708 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:33:16,102 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:33:16,150 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:33:16,564 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:33:16,565 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:33:42,973 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:33:43,021 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:33:43,373 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:33:43,374 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:33:47,414 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:33:47,487 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:33:47,912 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:33:47,913 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:33:55,024 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:33:55,082 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:33:55,481 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:33:55,482 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:36:15,117 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:36:15,165 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:36:15,568 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:36:15,569 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:36:41,985 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:36:42,052 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:36:42,626 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:36:42,627 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:36:46,675 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:36:46,716 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:36:47,153 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:36:47,154 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:36:52,862 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:36:52] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:37:04,450 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:37:04,508 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:37:05,049 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:37:05,051 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:37:13,865 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:37:13] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:37:48,837 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:37:48,907 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:37:49,439 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:37:49,440 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:37:52,380 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:37:52] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:38:18,958 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:38:19,011 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:38:19,546 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:38:19,548 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:38:22,456 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:38:22] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:39:15,480 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:39:15,524 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:39:15,915 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:39:15,916 INFO werkzeug MainThread :  * Debugger PIN: 136-252-980 <br>
+2021-03-28 18:39:22,993 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:39:23,049 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:40:54,268 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 18:40:54,269 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:40:54,633 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:40:54,634 INFO werkzeug MainThread :  * Debugger PIN: 113-729-049 <br>
+2021-03-28 18:41:05,798 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:41:05,862 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:41:06,388 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:41:06,389 INFO werkzeug MainThread :  * Debugger PIN: 113-729-049 <br>
+2021-03-28 18:41:09,305 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:41:09] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:09,424 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:42:09,483 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:42:09,864 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:42:09,865 INFO werkzeug MainThread :  * Debugger PIN: 113-729-049 <br>
+2021-03-28 18:42:12,894 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:42:12,938 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:42:13,534 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:42:13,536 INFO werkzeug MainThread :  * Debugger PIN: 113-729-049 <br>
+2021-03-28 18:42:15,802 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[35m[1mGET /memory_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:42:15,839 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:15,843 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:15,844 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:15,923 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:15,937 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:15,963 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:42:15] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:21,652 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:42:21,840 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:42:22,418 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:42:22,419 INFO werkzeug MainThread :  * Debugger PIN: 113-729-049 <br>
+2021-03-28 18:42:35,605 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:42:35,650 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:42:36,179 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:42:36,181 INFO werkzeug MainThread :  * Debugger PIN: 113-729-049 <br>
+2021-03-28 18:42:40,561 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[35m[1mGET /memory_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:42:40,600 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:40,601 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:40,604 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:40,667 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:40,675 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:42:40,697 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:42:40] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:43:09,798 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:43:10,149 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:46:04,385 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 18:46:04,386 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:46:04,737 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:46:04,738 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:46:09,532 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:46:09] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:46:57,814 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:46:57,865 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:46:58,227 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:46:58,228 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:47:01,532 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[35m[1mGET /memory_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 18:47:01,570 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:47:01,573 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:47:01,574 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:47:01,861 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:47:01,867 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:47:01,890 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 18:47:01] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:47:36,995 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:47:37,102 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:47:37,464 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:47:37,465 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:48:32,457 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:48:32,498 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:48:32,876 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:48:32,877 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:48:39,002 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:48:39] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:48:48,153 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:48:48,211 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:48:48,593 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:48:48,593 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:48:54,813 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:48:54] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:49:10,171 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:49:10] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:49:14,032 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:49:14,082 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:49:14,421 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:49:14,422 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:49:37,814 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:49:37,864 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:49:38,382 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:49:38,383 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:49:41,020 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:49:41] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:57:13,417 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:57:13,480 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:57:13,900 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:57:13,901 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:57:41,392 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:57:41,441 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:57:41,829 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:57:41,830 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:57:52,006 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:57:52,050 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:57:52,414 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:57:52,415 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:58:07,704 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:58:07,743 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:58:08,133 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:58:08,134 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:58:22,383 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 18:58:22,444 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 18:58:22,810 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 18:58:22,811 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 18:58:27,411 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 18:58:27] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 18:58:32,824 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 18:58:32] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:02:15,937 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:02:15,990 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:02:16,359 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:02:16,360 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 19:02:22,234 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:02:22] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:02:40,397 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 19:02:40] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:03:17,500 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:03:17,549 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:03:17,915 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:03:17,916 INFO werkzeug MainThread :  * Debugger PIN: 252-274-465 <br>
+2021-03-28 19:03:25,030 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:03:25,070 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:05:18,586 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 19:05:18,587 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:05:18,909 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:05:18,910 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:05:38,945 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:05:38] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:06:15,158 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 19:06:15] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:06:51,476 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:06:51,539 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:06:51,950 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:06:51,951 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:06:53,229 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:06:53] "[37mGET /disk_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:07:03,397 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 19:07:03] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:10:38,783 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:10:38,840 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:10:39,292 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:10:39,293 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:10:43,977 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:10:43] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:10:58,411 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 19:10:58] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:12:10,921 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:12:10,971 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:12:11,413 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:12:11,413 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:12:19,517 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:12:19] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:04,206 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:13:04,265 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:13:04,776 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:13:04,777 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:13:09,216 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[35m[1mGET /memory_stats HTTP/1.1[0m" 500 - <br>
+2021-03-28 19:13:09,249 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:09,252 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:09,255 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:09,334 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:09,342 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:09,372 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 19:13:09] "[37mGET /memory_stats?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:13:22,954 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:13:23,300 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:13:23,807 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:13:23,809 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:13:37,784 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:13:37] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:14:22,763 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:14:22,817 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:14:23,224 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:14:23,225 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:14:27,177 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:14:27] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:14:55,709 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:14:55,765 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:14:56,181 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:14:56,182 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:14:59,263 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:14:59] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:15:02,276 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:15:02,323 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:15:02,662 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:15:02,663 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:16:07,784 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:16:07,827 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:16:08,181 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:16:08,182 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:16:24,407 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:16:24,444 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:16:24,837 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:16:24,839 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:16:27,565 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:16:27] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:17:10,087 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 19:17:10] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:17:11,037 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 19:17:11] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:17:37,203 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:17:37,272 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:17:37,855 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:17:37,856 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 19:17:49,060 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 19:17:49] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 19:18:23,655 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 19:18:23,717 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 19:18:24,101 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 19:18:24,102 INFO werkzeug MainThread :  * Debugger PIN: 258-717-182 <br>
+2021-03-28 20:28:12,277 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 20:28:12,280 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 20:28:12,630 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 20:28:12,631 INFO werkzeug MainThread :  * Debugger PIN: 474-185-154 <br>
+2021-03-28 20:28:25,428 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 20:28:25] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:30,253 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 20:28:30] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:39,579 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 20:28:39] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:43,579 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 20:28:43] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:45,077 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 20:28:45] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:46,429 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 20:28:46] "[37mGET /current_memory HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:47,595 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 20:28:47] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:48,761 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 20:28:48] "[37mGET /current_disk HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:50,460 INFO werkzeug Thread-10 : 172.17.0.1 - - [28/Mar/2021 20:28:50] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:52,105 INFO werkzeug Thread-11 : 172.17.0.1 - - [28/Mar/2021 20:28:52] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:55,312 INFO werkzeug Thread-12 : 172.17.0.1 - - [28/Mar/2021 20:28:55] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:28:56,950 INFO werkzeug Thread-13 : 172.17.0.1 - - [28/Mar/2021 20:28:56] "[37mGET /disk_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:29:00,256 INFO werkzeug Thread-14 : 172.17.0.1 - - [28/Mar/2021 20:29:00] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:33:06,497 INFO werkzeug Thread-15 : 172.17.0.1 - - [28/Mar/2021 20:33:06] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:33:07,750 INFO werkzeug Thread-16 : 172.17.0.1 - - [28/Mar/2021 20:33:07] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:33:08,680 INFO werkzeug Thread-17 : 172.17.0.1 - - [28/Mar/2021 20:33:08] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:33:12,454 INFO werkzeug Thread-18 : 172.17.0.1 - - [28/Mar/2021 20:33:12] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:36:11,759 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 20:36:11,806 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 20:36:12,199 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 20:36:12,199 INFO werkzeug MainThread :  * Debugger PIN: 474-185-154 <br>
+2021-03-28 20:36:20,760 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 20:36:20] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:36:23,682 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 20:36:23] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 20:54:09,756 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 20:54:09,818 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 20:54:10,396 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 20:54:10,397 INFO werkzeug MainThread :  * Debugger PIN: 474-185-154 <br>
+2021-03-28 21:01:25,308 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 21:01:25,363 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:01:25,893 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:01:25,894 INFO werkzeug MainThread :  * Debugger PIN: 474-185-154 <br>
+2021-03-28 21:10:36,752 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 21:10:36,757 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:10:37,295 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:10:37,296 INFO werkzeug MainThread :  * Debugger PIN: 114-020-054 <br>
+2021-03-28 21:11:10,053 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 21:11:10] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:11:13,969 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 21:11:13] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:21:03,811 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 21:21:03,814 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:21:04,388 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:21:04,389 INFO werkzeug MainThread :  * Debugger PIN: 160-402-487 <br>
+2021-03-28 21:23:51,488 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 21:23:51,492 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:23:52,031 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:23:52,032 INFO werkzeug MainThread :  * Debugger PIN: 120-023-694 <br>
+2021-03-28 21:24:25,817 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 21:24:25] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:27,478 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 21:24:27] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:28,510 INFO werkzeug Thread-4 : 172.17.0.1 - - [28/Mar/2021 21:24:28] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:33,212 INFO werkzeug Thread-5 : 172.17.0.1 - - [28/Mar/2021 21:24:33] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:35,756 INFO werkzeug Thread-6 : 172.17.0.1 - - [28/Mar/2021 21:24:35] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:37,364 INFO werkzeug Thread-7 : 172.17.0.1 - - [28/Mar/2021 21:24:37] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:38,733 INFO werkzeug Thread-8 : 172.17.0.1 - - [28/Mar/2021 21:24:38] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:45,885 INFO werkzeug Thread-9 : 172.17.0.1 - - [28/Mar/2021 21:24:45] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:48,347 INFO werkzeug Thread-10 : 172.17.0.1 - - [28/Mar/2021 21:24:48] "[37mGET /disk_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:24:52,036 INFO werkzeug Thread-11 : 172.17.0.1 - - [28/Mar/2021 21:24:52] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:27:51,162 INFO werkzeug Thread-12 : 172.17.0.1 - - [28/Mar/2021 21:27:51] "[37mGET /disk_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:27:53,794 INFO werkzeug Thread-13 : 172.17.0.1 - - [28/Mar/2021 21:27:53] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:27:55,683 INFO werkzeug Thread-14 : 172.17.0.1 - - [28/Mar/2021 21:27:55] "[37mGET /current_memory HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:27:58,024 INFO werkzeug Thread-15 : 172.17.0.1 - - [28/Mar/2021 21:27:58] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:28:13,932 INFO werkzeug Thread-16 : 172.17.0.1 - - [28/Mar/2021 21:28:13] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:28:15,244 INFO werkzeug Thread-17 : 172.17.0.1 - - [28/Mar/2021 21:28:15] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:28:18,281 INFO werkzeug Thread-18 : 172.17.0.1 - - [28/Mar/2021 21:28:18] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:29:47,464 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 21:29:47,534 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:29:48,302 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:29:48,304 INFO werkzeug MainThread :  * Debugger PIN: 120-023-694 <br>
+2021-03-28 21:32:02,724 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-28 21:32:02,728 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:32:03,357 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:32:03,358 INFO werkzeug MainThread :  * Debugger PIN: 327-588-157 <br>
+2021-03-28 21:35:07,763 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 21:35:07] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:35:09,298 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 21:35:09] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:35:13,287 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 21:35:13,347 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:35:13,860 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:35:13,861 INFO werkzeug MainThread :  * Debugger PIN: 327-588-157 <br>
+2021-03-28 21:35:22,474 INFO werkzeug Thread-2 : 172.17.0.1 - - [28/Mar/2021 21:35:22] "[37mGET /memory_stats HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:35:29,379 INFO werkzeug Thread-3 : 172.17.0.1 - - [28/Mar/2021 21:35:29] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-28 21:35:32,293 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 21:35:32,343 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:35:32,861 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:35:32,862 INFO werkzeug MainThread :  * Debugger PIN: 327-588-157 <br>
+2021-03-28 21:36:10,715 INFO werkzeug MainThread :  * Detected change in '/app/app.py', reloading <br>
+2021-03-28 21:36:10,773 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-28 21:36:11,239 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-28 21:36:11,240 INFO werkzeug MainThread :  * Debugger PIN: 327-588-157 <br>
+2021-03-29 06:46:52,170 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-29 06:46:52,172 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-29 06:46:52,578 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-29 06:46:52,584 INFO werkzeug MainThread :  * Debugger PIN: 263-032-480 <br>
+2021-03-29 06:47:24,645 INFO werkzeug Thread-2 : 172.17.0.1 - - [29/Mar/2021 06:47:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - <br>
+2021-03-29 06:47:26,866 INFO werkzeug Thread-3 : 172.17.0.1 - - [29/Mar/2021 06:47:26] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-29 06:47:28,061 INFO werkzeug Thread-4 : 172.17.0.1 - - [29/Mar/2021 06:47:28] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-29 06:47:28,799 INFO werkzeug Thread-5 : 172.17.0.1 - - [29/Mar/2021 06:47:28] "[37mGET /cpu_stats HTTP/1.1[0m" 200 - <br>
+2021-03-29 06:47:33,812 INFO werkzeug Thread-6 : 172.17.0.1 - - [29/Mar/2021 06:47:33] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-29 07:09:42,603 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) <br>
+2021-03-29 07:09:42,606 INFO werkzeug MainThread :  * Restarting with stat <br>
+2021-03-29 07:09:43,086 WARNING werkzeug MainThread :  * Debugger is active! <br>
+2021-03-29 07:09:43,087 INFO werkzeug MainThread :  * Debugger PIN: 296-124-266 <br>
+2021-03-29 07:10:31,821 INFO werkzeug Thread-2 : 172.17.0.1 - - [29/Mar/2021 07:10:31] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-29 07:10:33,341 INFO werkzeug Thread-3 : 172.17.0.1 - - [29/Mar/2021 07:10:33] "[37mGET / HTTP/1.1[0m" 200 - <br>
+2021-03-29 07:10:34,436 INFO werkzeug Thread-4 : 172.17.0.1 - - [29/Mar/2021 07:10:34] "[37mGET /current_cpu HTTP/1.1[0m" 200 - <br>
+2021-03-29 07:10:35,440 INFO werkzeug Thread-5 : 172.17.0.1 - - [29/Mar/2021 07:10:35] "[37mGET / HTTP/1.1[0m" 200 - <br>

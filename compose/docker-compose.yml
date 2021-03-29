@@ -1,0 +1,24 @@
+web:
+  image: salamahs/v1
+  ports: 
+    - "5000:5000"
+  environment: 
+   - MONGODB_DATABASE=stats_db
+   - MONGODB_USERNAME=root
+   - MONGODB_PASSWORD=pass
+   - MONGODB_HOSTNAME=mongodb
+   - MONGODB_PORT=27017
+  links:
+    - db
+db:
+  image: salamahs/db
+  hostname: mongodb
+  environment:
+    - MONGO_INITDB_DATABASE=stats_db
+    - MONGO_INITDB_ROOT_USERNAME=root
+    - MONGO_INITDB_ROOT_PASSWORD=pass
+    - MONGODB_DATA_DIR=/data/db
+    - MONGODB_LOG_DIR=/data/log
+
+  ports:
+    - 27017:27017

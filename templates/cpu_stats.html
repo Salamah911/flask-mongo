@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Flask With Docker</title> 
+    </head>
+    <body>
+        <h2>  CPU statistics </h2>
+        <table>
+            {% for item in items %}
+               <tr>
+                    <td> {{ item }}% </td> 
+                    <!-- <td> cpu: {{ item.CPU_Usage }}% </td> -->
+               </tr>
+            {% endfor %}
+            </table>
+
+        <a href=" {{ url_for('home_page') }} "> back </a>
+    </body>
+</html>

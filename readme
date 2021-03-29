@@ -1,0 +1,4 @@
+docker pull salamahs/v1
+docker pull salamahs/db
+docker run --rm -p 27017:27017 salamahs/db
+docker run --rm -p 5000:5000 salamahs/v1

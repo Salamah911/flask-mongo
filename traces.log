@@ -1,0 +1,161 @@
+At 2021-03-28 17:38:22 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 17:38:24 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 17:38:25 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 17:38:25 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 17:38:28 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 17:38:30 -> calling: get_current_disk, doc:  get current read of disk statistics , API = GET 
+At 2021-03-28 17:38:31 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 17:42:06 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 17:42:06 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 17:42:34 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 17:56:40 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 17:56:41 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:04:38 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:04:41 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 18:04:42 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:04:43 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:07:29 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 18:07:31 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:07:33 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:20:14 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 18:20:15 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:21:01 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:21:01 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 18:21:08 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:21:12 -> calling: get_current_memory, doc:  get current read of memory statistics , API = GET 
+At 2021-03-28 18:21:14 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:22:12 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:22:12 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET 
+At 2021-03-28 18:28:31 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:28:34 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:28:34 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:29:19 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 18:29:21 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:29:39 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:29:39 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:30:07 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:30:32 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:30:32 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:36:52 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:36:52 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:37:13 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:37:13 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:37:52 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:37:52 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:38:22 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:38:22 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:41:09 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:41:09 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:42:15 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:42:40 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:46:09 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:46:09 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:47:01 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:48:38 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:48:38 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 18:48:54 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:48:54 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 18:49:10 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:49:10 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 18:49:40 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:49:40 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:58:27 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 18:58:27 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 18:58:32 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 19:02:22 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:02:22 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:02:40 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 19:05:38 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:05:38 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:06:15 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 19:06:53 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:06:53 -> calling: get_disk_stats, doc:  get last 24 hours memoyr statistics , API = GET 
+At 2021-03-28 19:07:03 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 19:10:43 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:10:43 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:10:58 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:10:58 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:12:19 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:12:19 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:13:09 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:13:37 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:13:37 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:14:27 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:14:27 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:14:59 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:14:59 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:16:27 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:16:27 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:17:10 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:17:10 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:17:11 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:17:11 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 19:17:49 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 19:17:49 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 20:28:25 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:28:30 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 20:28:30 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 20:28:39 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:28:43 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 20:28:45 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:28:46 -> calling: get_current_memory, doc:  get current read of memory statistics , API = GET 
+At 2021-03-28 20:28:47 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:28:48 -> calling: get_current_disk, doc:  get current read of disk statistics , API = GET 
+At 2021-03-28 20:28:50 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:28:52 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 20:28:52 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 20:28:55 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:28:56 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 20:28:56 -> calling: get_disk_stats, doc:  get last 24 hours memoyr statistics , API = GET 
+At 2021-03-28 20:29:00 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:33:06 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 20:33:07 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:33:08 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 20:33:08 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 20:33:12 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:36:20 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 20:36:20 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 20:36:23 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 20:51:43 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 20:51:43 -> calling: insert_into_db, doc:  Inserts object to database  
+At 2021-03-28 21:11:09 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:11:09 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 21:11:13 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:24:25 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 21:24:27 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:24:28 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:24:28 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 21:24:33 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:24:35 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 21:24:37 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:24:38 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:24:38 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 21:24:45 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:24:48 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:24:48 -> calling: get_disk_stats, doc:  get last 24 hours memoyr statistics , API = GET 
+At 2021-03-28 21:24:52 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:27:51 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:27:51 -> calling: get_disk_stats, doc:  get last 24 hours memoyr statistics , API = GET 
+At 2021-03-28 21:27:53 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:27:55 -> calling: get_current_memory, doc:  get current read of memory statistics , API = GET 
+At 2021-03-28 21:27:58 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:28:13 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 21:28:15 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:28:18 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:28:18 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-28 21:35:07 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-28 21:35:09 -> calling: home_page, doc:  home page, no API  
+At 2021-03-28 21:35:22 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-28 21:35:22 -> calling: get_memory_stats, doc:  get last 24 hours disk statistics , API = GET  
+At 2021-03-28 21:35:29 -> calling: home_page, doc:  home page, no API  
+At 2021-03-29 06:47:26 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-29 06:47:28 -> calling: home_page, doc:  home page, no API  
+At 2021-03-29 06:47:28 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-29 06:47:28 -> calling: get_cpu_stats, doc:  get last 24 hours cpu statistics , API = GET 
+At 2021-03-29 06:47:33 -> calling: home_page, doc:  home page, no API  
+At 2021-03-29 06:48:39 -> calling: get_db, doc:  Detects the running database  
+At 2021-03-29 06:48:39 -> calling: insert_into_db, doc:  Inserts object to database  
+At 2021-03-29 07:10:31 -> calling: home_page, doc:  home page, no API  
+At 2021-03-29 07:10:33 -> calling: home_page, doc:  home page, no API  
+At 2021-03-29 07:10:34 -> calling: get_current_cpu, doc:  get current read of cpu statistics , API = GET 
+At 2021-03-29 07:10:35 -> calling: home_page, doc:  home page, no API  
