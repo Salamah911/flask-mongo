@@ -2,3 +2,6 @@ docker pull salamahs/v1
 docker pull salamahs/db
 cd compose
 docker-compose up --build
+# must now be running
+# from browser enter 127.0.0.1:5000
+
