@@ -5,3 +5,5 @@ docker-compose up --build
 # must now be running
 # from browser enter 127.0.0.1:5000
 
+# you can use the project file to make a new images without pulling the images from dockerhub
+# by typing in the main directory : docker-compose up --build 
